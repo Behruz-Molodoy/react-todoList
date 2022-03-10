@@ -1,0 +1,8 @@
+.game{
+  display: flex;
+  background: linear-gradient(135deg , rgba(21, 324 , 32 , 1) 0% , rgba(55, 475, 453 , 2) 50% );
+  height: 80vh;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Comic Sans MS' , sans-serif;
+}
